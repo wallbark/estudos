@@ -1,0 +1,28 @@
+Git ---
+
+VCS - Version control system;; 
+
+git init -> criar repositorio;
+
+git status -> mostra as informações do projeto; 
+
+git add <> -> comita um arquivo; 
+
+git add. = adiciona todos os arquivos da pasta
+
+git add nomeDoArquivo = adiciona arquivo específico; 
+
+git rm == remove o arquivo do monitoramento de mudanças
+
+git commmit -m "mensagem aqui"  == código que vai descrever a alteração realizada no arquivo;;
+
+
+gti log = informações
+
+ git log --oneline ( resumo )
+ 
+ git log -p  == detalhes da alteração;; 
+ 
+ git add .gitignore nome
+ 
+ 
